@@ -1,7 +1,7 @@
 {
   "Name": "azure-storage-file-datalake",
-  "Version": "12.20.0a20250318007",
-  "DevVersion": "12.20.0a20250318007",
+  "Version": "12.20.0a20250318008",
+  "DevVersion": "12.20.0a20250318008",
   "DirectoryPath": "sdk/storage/azure-storage-file-datalake",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-storage-file-datalake/README.md",
@@ -16,8 +16,8 @@
     ""
   ],
   "ArtifactDetails": {
-    "name": "azure-storage-file-datalake",
     "safeName": "azurestoragefiledatalake",
+    "name": "azure-storage-file-datalake",
     "triggeringPaths": [
       "/sdk/storage/ci.yml"
     ]

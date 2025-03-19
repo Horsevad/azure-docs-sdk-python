@@ -1,7 +1,7 @@
 {
   "Name": "azure-storage-queue",
-  "Version": "12.13.0a20250318007",
-  "DevVersion": "12.13.0a20250318007",
+  "Version": "12.13.0a20250318008",
+  "DevVersion": "12.13.0a20250318008",
   "DirectoryPath": "sdk/storage/azure-storage-queue",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-storage-queue/README.md",
@@ -16,8 +16,8 @@
     ""
   ],
   "ArtifactDetails": {
-    "name": "azure-storage-queue",
     "safeName": "azurestoragequeue",
+    "name": "azure-storage-queue",
     "triggeringPaths": [
       "/sdk/storage/ci.yml"
     ]

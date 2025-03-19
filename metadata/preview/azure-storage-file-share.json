@@ -1,7 +1,7 @@
 {
   "Name": "azure-storage-file-share",
-  "Version": "12.22.0a20250318007",
-  "DevVersion": "12.22.0a20250318007",
+  "Version": "12.22.0a20250318008",
+  "DevVersion": "12.22.0a20250318008",
   "DirectoryPath": "sdk/storage/azure-storage-file-share",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-storage-file-share/README.md",
@@ -16,8 +16,8 @@
     ""
   ],
   "ArtifactDetails": {
-    "name": "azure-storage-file-share",
     "safeName": "azurestoragefileshare",
+    "name": "azure-storage-file-share",
     "triggeringPaths": [
       "/sdk/storage/ci.yml"
     ]

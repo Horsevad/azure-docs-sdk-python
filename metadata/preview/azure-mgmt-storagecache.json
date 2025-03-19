@@ -1,7 +1,7 @@
 {
   "Name": "azure-mgmt-storagecache",
-  "Version": "2.0.0a20250318007",
-  "DevVersion": "2.0.0a20250318007",
+  "Version": "2.0.0a20250318008",
+  "DevVersion": "2.0.0a20250318008",
   "DirectoryPath": "sdk/storage/azure-mgmt-storagecache",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-mgmt-storagecache/README.md",
@@ -16,8 +16,8 @@
     ""
   ],
   "ArtifactDetails": {
-    "name": "azure-mgmt-storagecache",
     "safeName": "azuremgmtstoragecache",
+    "name": "azure-mgmt-storagecache",
     "triggeringPaths": [
       "/sdk/storage/ci.yml"
     ]
